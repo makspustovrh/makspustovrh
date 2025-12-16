@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I'm Maks, a cybersecurity student from Slovenia.
+
 <!--
 **makspustovrh/makspustovrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
